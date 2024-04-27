@@ -12,24 +12,24 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Minha Trajetória'
+    - title: 'Projeto'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Outros'
-      # submenu:
-      # - url: '/about/'
-      #   title: 'Sobre mim'
-      # - url: '/contact/'
-      #   title: 'Contato'
-      # - url: '/elements/'
-      #   title: 'Elements'
+    - title: 'Mais'
+       submenu:
+       - url: '/about/'
+         title: 'Sobre mim'
+       - url: '/contact/'
+         title: 'Contato'
+       - url: '/elements/'
+         title: 'Elementos'
 
 
 #-------------------------------
 # Author Settings
 author:
-  author__name: Maria Jackelin Gil Ozuna  
+  author__name: Gean Ramos
   author__bio: “O segredo da saúde mental e corporal está em não se lamentar pelo passado, não se preocupar com o futuro, nem se adiantar aos problemas, mas viver sabia e seriamente o presente.” Buda
   author__avatar: '/images/01-1.jpg'
 

@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Dra Jackelin
+title: Gean Ramos
 logo: #'/images/logo.png' # You can add own logo. For example '/images/logo.png'.
-description: Oi sou a Dra Jackelin, estou aqui para te ajudar!.
+description: Oi sou a Gean Ramos, estou aqui para te ajudar!.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -34,9 +34,9 @@ author:
   author__avatar: '/images/01-1.jpg'
 
 social:
-- {icon: "ion-logo-facebook", link: "https://www.facebook.com/jackelin.gil.3"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/drajackelingil/"}
-- {icon: "ion-logo-whatsapp", link: "https://api.whatsapp.com/send?phone=5547984116996&text=Oi!%20Acabo%20de%20vir%20do%20site%20da%20Dra%20Jackelin%20Gil%2C%20e%20gostaria%20de%20agendar%20uma%20consulta!"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/geanramos"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/geanramus/"}
+- {icon: "ion-logo-whatsapp", link: "#whatsapp"}
 
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}

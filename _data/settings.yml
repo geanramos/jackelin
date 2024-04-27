@@ -31,12 +31,13 @@ menu__settings:
 author:
   author__name: Gean Ramos
   author__bio: “O segredo da saúde mental e corporal está em não se lamentar pelo passado, não se preocupar com o futuro, nem se adiantar aos problemas, mas viver sabia e seriamente o presente.” Buda
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/02-4.jpg'
 
 social:
 - {icon: "ion-logo-facebook", link: "https://www.facebook.com/geanramos"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/geanramus/"}
-- {icon: "ion-logo-whatsapp", link: "#whatsapp"}
+- {icon: "ion-logo-twitter", link: "https://www.twitter.com/geanramos"}
+#- {icon: "ion-logo-whatsapp", link: "#whatsapp"}
 
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
